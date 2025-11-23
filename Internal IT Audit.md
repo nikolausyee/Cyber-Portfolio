@@ -18,8 +18,6 @@
 
 **Risk Assessment**
 
-## Current assets
-
 Assets managed by the IT Department include: 
 
 * Employee equipment: end-user devices (desktops/laptops, smartphones), remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras, etc.  
